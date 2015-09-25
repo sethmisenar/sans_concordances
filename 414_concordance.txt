@@ -1,0 +1,1269 @@
+802.11a
+802.11b
+802.11g
+802.11i
+802.11n
+802.1x
+AAA, Authentication, Authorization, and Accountability;"AAA" in cswordlist or "authentication, authorization, and accountability" in page
+ABM, Asynchronous Balance Mode;"ABM" in cswordlist or "asynchronous balance mode" in page
+Abstraction
+Acceptance
+Acceptance Testing
+Access Control Matrix
+Access Provisioning Lifecycle
+Account Lockout
+Accountability Principle
+Accreditation
+ACL, Access Control List;"ACL" in cswordlist or "access control list" in page
+Active-Active Cluster
+Active-Passive Cluster
+ActiveX
+Ad Hoc Mode
+Adaptive Chosen Ciphertext
+Adaptive Chosen Ciphertext Attack
+Adaptive Chosen Plaintext
+Adaptive Chosen Plaintext Attack
+Adjacent Buildings
+Administrative Controls
+Administrative Law
+Administrative Personnel Controls
+Administrative Security
+ADSL, Asymmetric Digital Subscriber Line;"ASDL" in cswordlist or "asymmetric digital subscriber line" in page
+AES, Advanced Encryption Standard;"AES" in cswordlist or "advanced encryption standard" in page
+Aggregation
+Agile
+Agile Software Development
+AH, Authentication Header;"AH" in cswordlist or "authentication header" in page
+Airborne Contaminants
+ALE, Annualized Loss Expectancy;"ALE" in cswordlist or "annualized loss expectancy" in page
+Allocated Space
+ALU, Arithmetic Logic Unit;"ALU" in cswordlist or "arithmetic logic unit" in page
+Analog Communications
+ANN, Artificial Neural Network;"ANN" in cswordlist or "artificial neural network" in page
+Annual Rate Of Occurrence
+Anomaly Detection
+API, Application Programming Interface;"application programming interface" in page
+Applets
+Application Development Methods
+Application Development Security
+Application Layer
+Application Layer Protocols
+Application Virtualization
+Application Whitelisting
+Application-Layer Proxy
+Application-Layer Proxy Firewall
+Applications In A Multi-Vendor
+Arbitrary Substitution
+ARCNET, Attached Resource Computer Network;"ARCNET" in cswordlist or "attached resource computer network" in page
+ARM, Asynchronous Response Mode;"ARM" in cswordlist or "asynchronous response mode" in page
+ARO, Annual Rate Of Occurrence;"ARO" in cswordlist or "annual rate of occurrence" in page
+ARP, Address Resolution Protocol;"ARP" in cswordlist or "address resolution protocol" in page
+Artificial Intelligence
+Artificial Neural Networks
+ASDL, Asymmetric Digital Subscriber Line;"ASDL" in cswordlist or "asymmetric digital subscriber line" in page
+Assembly Language
+Asset Management
+Asset Tracking
+Asset Value
+Asymmetric Encryption
+Asynchronous Dynamic Token
+ATM, Asynchronous Transfer Mode;"ATM" in cswordlist or "asynchronous transfer mode" in page
+Attestation
+Authentication Comparison
+Authentication Methods
+Authorization Creep
+Autoconfiguration
+Automated Call Trees
+AV, Asset Value;"asset value" in page
+Avoidance
+Backdoor
+Background Check
+Background Investigations/Pre-Employment
+Backward Chaining
+Bad Blocks/Clusters/Sectors
+Baseband Networks
+Baselining
+Bastion Hosts
+Bayesian Filtering
+BCP, Business Continuity Planning;"BCP" in cswordlist or "business continuity planning" in page
+Bell-Lapadula Model
+Best Evidence Rule
+Best Practices
+BGP, Border Gateway Protocol;"BGP" in cswordlist or "border gateway protocol" in page
+BIA, Business Impact Analysis;"BIA" in cswordlist or "business impact analysis" in page
+Biba Model
+Big Bang
+Binary Image
+Biometrics
+BIOS, Basic Input/Output System;"BIOS" in cswordlist or "Basic Input/Output System" in page
+Birthday Attack
+Black Box
+Black Box Testing
+Black Hat Hackers
+Block Cipher
+Block Mode Cipher
+Blowfish
+Bluetooth
+Bollard
+Book Cipher
+Boot Sector Virus
+BOOTP, Bootstrap Protocol;"BOOTP" in cswordlist or "bootstrap protocol" in page
+Botnets
+Bottom-Up Programming
+Breach Notification
+BRI, Basic Rate Interface;"BRI" in cswordlist or "basic rate interface" in page
+Bridges
+Broadband Network
+Broadcast Traffic
+BRP, Business Recovery Plan;"BRP" in cswordlist or "business recovery plan" in page
+Brute-force
+Brute-Force Attack
+BSI, Business Standards Institute;"BSI" in cswordlist or "business standards institute" in page
+Buffer Overflow
+Bus Topology
+Business Continuity Institute
+Business Interruption Testing
+Bytecode
+C&A, Certification and Accreditation;"Certification and Accreditation" in page
+CA, Certificate Authority;"CA" in cswordlist or "certificate authority" in page
+Cable Modem
+Cabling
+Cache Memory
+Caesar Cipher
+Call Tree
+Callback
+Callback Modem
+Calling Tree Training/Test
+Candidate Keys
+Carbon Dioxide
+CASE, Computer-Aided Software Engineering;"CASE" in cswordlist or "Computer-Aided Software Engineering" in page
+CBC, Cipher Block Chaining;"CBC" in cswordlist or "cipher block chaining" in page
+CBC-MAC (Cipher Block Chaining Message Authentication Code);"CBC" in cswordlist and "MAC" in cswordlist
+CBK, Common Body Of Knowledge;"CBK" in cswordlist or "common body of knowledge" in page
+CCD, Charge Coupled Device;"CCD"  in cswordlist or "charge coupled device" in page
+CCMP, Counter Mode CBC Mac Protocol;"CCMP" in cswordlist or "Counter Mode CBC Mac Protocol" in page
+CCTV, Closed-Circuit Television;"CCTV" in cswordlist or "Closed-Circuit Television" in page
+Centralized
+Centralized Access Control
+CER, Crossover Error Rate;"CER" in cswordlist or "crossover error rate" in page
+CFB, Cipher Feedback;"CFB" in cswordlist or "cipher feedback" in page
+Chain Of Custody
+Chaining
+Change Management
+CHAP, Challenge-Handshake Authentication Protocol;"CHAP" in cswordlist or "Challenge-Handshake Authentication Protocol" in page
+Checklist Testing
+Chinese Wall Model
+Chosen Ciphertext
+Chosen Ciphertext Attack
+Chosen Plaintext
+Chosen Plaintext Attack
+CIA, Confidentiality, Integrity, and Availability;"Confidentiality, Integrity, and Availability" in page
+CIB, Candidate Information Bulletin;"candidate information bulletin" in page
+CIDR, Classless Inter-Domain Routing;"CIDR" in cswordlist or "Classless Inter-Domain Routing" in page
+Cipher Block Chaining
+Cipher Disk
+Cipher Feedback
+Cipher For Telegraphic Correspondence
+Ciphertext
+Circuit-Level Proxy
+Circuit-Switched Network
+Circumstantial Evidence
+CIRT, Computer Incident Response Team;"CIRT" in cswordlist or "computer incident response team" in page
+CISC, Complex Instruction Set Computer;"CISC" in cswordlist or "complex instruction set computer" in page
+Civil Law
+Clark-Wilson
+Clark-Wilson Model
+Class I Gate
+Class Symbols
+Classful Addresses
+Classful Network
+Cleaning
+Clearance
+Client-Side Attack
+Clipper Chip
+Clipping
+Closed Source
+Closed Source Software
+Cloud Computing
+CMM, Capability Maturity Model;"CMM" in cswordlist or "capability maturity model" in page
+CMP, Crisis Management Plan;"CMP" in cswordlist or "crisis management plan" in page
+Coaxial
+Coaxial Cable
+COBIT, Control Objectives For Information and Related Technology;"COBIT" in cswordlist or "Control Objectives For Information and Related Technology" in page
+COCOM, Committee For Multilateral Export Controls;"COCOM" in cswordlist or "committee for multilateral export controls" in page
+Codebook
+Codebreakers
+Cohesion
+Cold Site
+Collection Limitation Principle
+Collision Detection
+Collision Domain
+Collusion
+Color Of Law
+COM, Component Object Model;"COM" in cswordlist or "component object model" in page
+Combination Lock
+Combinatorial
+Combinatorial Software Testing
+Common Criteria
+Common Law
+Communications Failure
+Communications Risks
+Compartmentalization
+Compartmented
+Compartmented Mode
+Compensating Controls
+Compensatory Damages
+Compiler
+Computer Bus
+Computer Crime
+Computer Ethics Institute
+Computer Fraud And Abuse Act
+Computer Viruses
+Computer-Aided Software Engineering
+Computer-Based Testing
+Configuration Management
+Confusion
+Constrained User Interface
+Consultants
+Containment
+Content-Dependent
+Content-Dependent Access Control
+Context-Dependent
+Continuity Of Support Plan
+Contraband Check
+Contractors
+Convergence
+COOP, Continuity Of Operations Planning;"COOP" in cswordlist or "continuity of operations planning" in page
+Copyright
+CORBA, Common Object Request Broker Architecture;"CORBA" in cswordlist or "common object request broker architecture" in page
+Core Key
+Cornerstone Concepts
+Cornerstone Information Security Concepts
+Corrective
+Corrective Controls
+Corroborative Evidence
+Corrosion
+Count-Down Timers
+#Counter
+Countermeasures
+Coupling
+Covert Channel
+Covert Storage Channel
+Covert Timing Channel
+CPPT, Continuity Planning Project Team;"CPPT" in cswordlist or "continuity planning project team" in page
+CPU, Central Processing Unit;"CPU" in cswordlist or "central processing unit" in page
+Cracker
+Criminal Law
+Crippleware
+Crisis Communications Plan
+Critical Assets Identification
+Critical State Assessment
+CRL, Certificate Revocation List;"CRL" in cswordlist or "certificate revocation list" in page
+Cross-Site Request Forgery
+Cross-Site Scripting
+Crossover
+Cryptanalysis
+Cryptography
+Cryptology
+CSIRT, Computer Security Incident Response Team;"CSIRT" in cswordlist or "computer security incident response team" in page
+CSMA, Carrier Sense Multiple Access;"CSMA" in cswordlist or "carrier sense multiple access" in page
+CSRF, Cross-Site Request Forgery;"CSRF" in cswordlist or "XSRF" in cswordlist or "Cross Site Request Forgery" in page
+CSU/DSU, Channel Service Unit/Data ServiCe Unit;("CSU" in cswordlist and "DSU" in cswordlist) or "Channel Service Unit/Data Service Unit" in page
+CTR, Counter Mode;"CTR" in cswordlist or "counter mode" in page
+Custodian
+Customary Law
+CWR, Congestion Window Reduced;"CWR" in cswordlist or "congestion window reduced" in page
+Cybersquatting
+DAC, Discretionary Access Control;"DAC" in cswordlist or "discretionary access control" in page
+DAD, Disclosure, Alteration, and Destruction;"DAD" in cswordlist or "Disclosure, Alteration, and Destruction" in page
+DARPA, Defense Advanced Research Projects Agency;"DARPA" in cswordlist or "defense advanced research projects agency" in page
+Data At Rest
+Data Dictionary
+Data In Motion
+Data Integrity
+Data Link
+Data Link Layer
+Data Manipulation Language
+Data Mining
+Data Owner
+Data Remanence
+Data Warehouse
+Database Journal
+Database Query Languages
+Database Replication
+Database Security
+Database Shadowing
+Database View
+DBA, Database Administrator;"DBA" in cswordlist or "database administrator" in page
+DBMS, Database Management System;"DBMS" in cswordlist or "database management system" in page
+DCE, Data Circuit-Terminating Equipment;"DCE" in cswordlist or "Data Circuit-Terminating Equipment" in page
+DCOM, Distributed Component Object Model;"DCOM" in cswordlist or "distributed component object model" in page
+DDL, Data Definition Language;"DDL" in cswordlist or "data definition language" in page
+DDoS, Distributed Denial Of Service;"ddos" in wordlist or "distributed denial of service" in page
+DEA, Data Encryption Algorithm;"DEA" in cswordlist or "data encryption algorithm" in page
+Deadbolt
+Decentralized
+Decentralized Access Control
+Decryption
+Default Route
+Defense In Depth; "defense in depth" in page or "Defense-In-Depth" in page
+Degaussing
+Deluge Systems
+Demarc
+Demarcation
+Denial Of Service
+Depth Of Field
+DES, Data Encryption Standard;"DES" in cswordlist or "data encryption standard" in page
+Description
+Desktop Virtualization
+Detective Controls
+Deterrent
+Deterrent Controls
+Develop Contingency Planning Policy Statement
+Develop Recovery Strategies
+DevOps, Development + Operations;"development" in page and "operations" in page
+DHCP, Dynamic Host Configuration Protocol;"DHCP" in cswordlist or "dynamic host configuration protocol" in page
+Diameter
+Dictionary Attack
+Differential Backup
+Differential Cryptanalysis
+Diffie-Hellman Key Agreement Protocol
+Diffusion
+Digital Communication
+Digital Signature
+Digital Watermark
+Direct Evidence
+Directed Broadcast Addresses
+Directory Path Traversal
+Disassembler
+Disaster Event
+Disaster Recovery Process
+Disasters/Disruptive Events
+Discrete Logarithm
+Disk Encryption
+Diskless Workstation
+Disruptive Events
+Distance Vector
+Distance Vector Routing
+Distributed Computing
+Divisions
+DLP, Data Loss Prevention;"data loss prevention" in page
+DML, Data Manipulation Language;"DML" in cswordlist or "data manipulation language" in page
+DMZ, Demilitarized Zone;"DMZ" in cswordlist or "demilitarized zone" in page
+DNP3, Distributed Networking Protocol;"DNP3" in cspage"distributed networking protocol" in page
+DNS, Domain Name System;"DNS" in cswordlist or "domain name system" in page
+DNSSEC, Domain Name Server Security Extensions;"DNSSEC" in cswordlist or "domain name server security extensions" in page
+Dogs
+Doors
+DoS, Denial Of Service;"dos" in wordlist or "denial of service" in page
+Drains
+DRAM, Dynamic Random Access Memory;"DRAM" in cswordlist or "dynamic random access memory" in page
+Drawbacks
+DRP, Disaster Recovery Planning;"DRP" in cswordlist or "disaster recovery planning" in page
+Dry Pipe Systems
+Dry Powder
+Ds-1
+Ds-3
+DSL, Digital Subscriber Line;"DSL" in cswordlist or "digital subscriber line" in page
+DSSS, Direct Sequence Spread Spectrum;"DSSS" in cswordlist or "direct sequence spread spectrum" in page
+DTE, Data Terminal Equipment;"DTE" in cswordlist or "data terminal equipment" in page
+Dual-Homed Host
+Due Care
+Due Diligence
+Dumpster Diving
+Duress Warning Systems
+Dynamic Password
+Dynamic Signature
+Dynamic Signatures
+Dynamic Testing
+E1
+E3
+EAP, Extensible Authentication Protocol;"EAP" in cswordlist or "extensible authentication protocol" in page
+EAP-TTLS(EAP Tunneled Transport Layer Security), ;"" in page
+ECB, Electronic Code Book;"ECB" in cswordlist or "electronic code book" in page
+ECC, Elliptic Curve Cryptography;"ECC" in cswordlist or "elliptic curve cryptography" in page
+ECE, Explicit Congestion Notification Echo;"ECE" in cswordlist or "explicit congestion notification echo" in page
+ECM, Electronic Code Machine;"ECM" in cswordlist or "electronic Code Machine" in page
+ECPA, Electronic Communications Privacy Act;"ECPA" in cswordlist or "electronic communications privacy act" in page
+EES, Escrowed Encryption Standard;"EES" in cswordlist or "escrowed encryption standard" in page
+EF, Exposure Factor;"EF" in cswordlist or "exposure factor" in page
+EGP, Exterior Gateway Protocol;"EGP" in cswordlist or "exterior gateway protocol" in page
+Egyptian Hieroglyphics
+Electrical Faults
+Electrical/Power Problems
+Electromagnetic Interference
+Electronic Backups
+Electronic Code Book
+Electronic Vaulting
+Elliptic Curve Cryptography
+Emanations
+Embedded Device Forensics
+EMI, Electromagnetic Interference;"EMI" in cswordlist or "electromagnetic interference" in page
+Employee Termination
+Encapsulation
+Endorsement
+Endpoint Security
+Enigma
+Enrollment
+Enticement
+Entity Integrity
+Entrapment
+Environmental
+Environmental Controls
+EOC, Emergency Operations Center;"emergency operations center" in page
+Ephemeral Port
+EEPROM, Electrically Erasable Programmable Read Only Memory;"EEPROM" in cs wordlist
+EPROM, Erasable Programmable Read Only Memory;"EPROM" in cswordlist or "erasable programmable read only memory" in page
+Equations
+Eradication
+Errors And Omissions
+Escorts
+Escrowed Encryption
+ESP, Encapsulating Security Payload;"ESP" in cswordlist or "encapsulating security payload" in page
+EULA, End-User License Agreement;"EULA" in cswordlist or "End-User License Agreement" in page
+European Union
+European Union Privacy
+Evacuation Roles
+Evacuation Route
+Evaluation Methods
+Event Types
+Evidence Rule
+Exam Preparation
+Executive Succession Planning
+Exfiltration
+Exigent Circumstances
+Expert Systems
+Export Restrictions
+Exposure Factor
+Extension Identifier
+Extinguishers
+Extranet
+Extreme Programming
+Facial Scan
+Factoring Prime Numbers
+Fair Use
+FAR, False Accept Rate;"FAR" in cswordlist or "false accept rate" in page
+Faraday Cage
+Fault Tolerance
+FCoE, Fiber-Channel over Ethernet;"Fiber-Channel over Ethernet" in page
+Feedback
+Fences
+Fetch And Execute
+FHSS, Frequency Hopping Spread Spectrum;"FHSS" in cswordlist or "frequency hopping spread spectrum" in page
+Fiber Distributed Data Interface
+Fiber Optic Network
+Fiber Optic Network Cable
+FIdM, Federated Identity Management;"fidm" in wordlist or "federated identity management" in page
+Field Of View
+File Permissions
+Financially Motivated Attackers
+Fingerprint Scan
+Fingerprints
+Fire Detector
+Fire Suppression
+Fire Suppression Agents
+Firewall Design
+Firmware
+First Sale Doctrine
+Fitness Function
+Flags
+Flame Detector
+Flash Memory
+Flat File
+Footcandle
+Forced Vacation
+Foreign Key
+Forensic Media Analysis
+Forensic Software Analysis
+Forensics
+Formal Access Approval
+Forward Chaining
+Fourth-Generation Programming Languages
+Fraggle Attack
+Fragmentation
+Frame Relay
+Free Software
+Freeware
+FRR, False Reject Rate;"FRR" in cswordlist or "false reject rate" in page
+FTP, File Transfer Protocol;"FTP" in cswordlist or "file transfer protocol" in page
+Full Backup
+Full Disclosure
+Full Disk Encryption
+Full Duplex Communication
+Full Knowledge Test
+Full-Duplex Communication
+Fuzzing
+GAN, Global Area Network;"GAN" in cswordlist or "global area network" in page
+Gates
+Generator
+Genetic Algorithms
+GIG, Global Information Grid;"GIG" in cswordlist or "global information grid" in page
+GLBA, Gramm-Leach-Bliley Act;"GLBA" in cswordlist or "Gramm-Leach-Bliley Act" in page
+Governance
+GPL, Gnu Public License;"GNI" in cswordlist or "gnu public license" in page
+Graham-Denning Model
+Gray Hat Hackers
+GRC, Governance, Risk, Compliance;"GRC" in cswordlist or "Governance, Risk, Compliance" in page
+Grid Computing
+Gross Negligence
+GUI, Graphical User Interface;"GUI" in cswordlist or "graphical user interface" in page
+Guidelines
+Hacktivist
+Half Duplex Communication
+Half-Duplex Communication
+Halon
+Halon Replacements
+Hand Geometry
+Hardcopy Data
+Hardware Architecture
+Hardware Segmentation
+Harrison-Ruzzo-Ullman Model
+Hash Collision
+Hash Function
+Hashing Algorithm
+Hashing
+HAVAL, Hash Of Variable Length;"HAVAL" in cswordlist or "hash of variable length" in page
+HDLC, High-Level Data Link Control;"HDLC" in cswordlist or "High-Level Data Link Control" in page
+HDSL, High-Data-Rate DSL;"HDSL" in cswordlist or "High-Data-Rate DSL" in page
+Header Fields
+Hearsay Evidence
+Heat Detector
+Hebern Machine
+HIDS, Host-Based Intrusion Detection System;"Host-Based Intrusion Detection System" in page
+Hierarchical
+Hierarchical Databases
+Hieroglyphics
+High Availability Cluster
+HIPAA, Health Insurance Portability and Accountability Act;"HIPAA" in cswordlist or "Health Insurance Portability and Accountability Act" in page
+HIDS, Host-Based Intrusion Detection System;"HIDS" in cswordlist or "Host-Based Intrusion Detection System" in page
+HIPS, Host-Based Intrusion Prevention System;"HIPS" in cswordlist or "Host-Based Intrusion Prevention System" in page
+HMAC, Hashed Message Authentication Code;"HMAC" in cswordlist or "hashed message authentication code" in page
+HMI, Human Machine Interface;"HMI" in cswordlist or "human machine interface" in page
+Hold-Down Timer
+Honeypot
+Host-Based System
+Host-To-Host
+Hot Site
+HTML, Hypertext Markup Language;"HTML" in cswordlist or "hypertext markup language" in page
+HTTP, Hypertext Transfer Protocol;"HTTP" in cswordlist or "hypertext transfer protocol" in page
+HTTPS, Hypertext Transfer Protocol Secure;"HTTPS" in cswordlist or "hypertext transfer protocol secure" in page
+Humidity
+HVAC, Heating, Ventilation, and Air Conditioning;"HVAC" in cswordlist or "Heating, Ventilation, and Air Conditioning" in page
+Hybrid Attack
+Hypervisor
+Hypervisor Mode
+IaaS, Infrastructure As A Service;"IaaS" in cswordlist or "infrastructure as a service" in page
+IAB, Internet Activities Board;"IAB" in cswordlist or "internet activities board" in page
+ICMP, Internet Control Message Protocol;"ICMP" in cswordlist or "internet control message protocol" in page
+ICS, Industrial Control Systems;"ICS" in cswordlist or "industrial control systems" in page
+IDEA, International Data Encryption Algorithm;"IDEA" in cswordlist or "international data encryption algorithm" in page
+Identify Preventive Controls
+IDL, Interface Definition Language;"IDL" in cswordlist or "interface definition language" in page
+IdM, Identity Management;"IdM" in cswordlist or "identity management" in page
+IDS, Intrusion Detection System;"IDS" in cswordlist or "intrusion detection system" in page
+IGP, Interior Gateway Protocol;"IGP" in cswordlist or "interior gateway protocol" in page
+IKE, Internet Key Exchange;"IKE" in cswordlist or "internet key exchange" in page
+IMAP, Internet Message Access Protocol;"IMAP" in cswordlist or "internet message access protocol" in page
+Import Restrictions
+Export Restrictions
+Incident Response
+Incident Response Lifecycle
+Incident Response Management
+Incremental Backup
+Individual Participation Principle
+Inference
+Inference Engine
+Information Flow Model
+Information Security Governance
+Inheritance
+Initialization Vector
+Initiation
+Insider Attack
+Insiders
+Installation Testing
+Instant Messaging
+Integration Testing
+Integrity Axiom
+Intellectual Property
+International Common Criteria
+Internet Key Exchange
+Internet Layer
+Internet Outage
+Internet2 Outage
+Interpreted Code
+Interpreted Language
+Interrupt
+Intranet
+IoT, Internet Of Things;"IoT" in cswordlist or "internet of things" in page
+IP, Internet Protocol;"IP" in cswordlist or "internet protocol" in page
+IP Addressing
+IPS, Intrusion Prevention System;"IPS" in cswordlist or "intrusion prevention system" in page
+IPsec, Internet Protocol Security;"ipsec" in wordlist or "internet protocol security" in page
+IRC, Internet Relay Chat;"IRC" in cswordlist or "internet relay chat" in page
+Iris Scan
+ISAKMP, Internet Security Association and Key Management Protocol;"ISAKMP" in cswordlist or "internet security association and key management protocol" in page
+iSCSI, Internet SCSI;"iSCSI" in cswordlist or "Internet SCSI" in page
+ISDN, Integrated Services Digital Network;"ISDN" in cswordlist or "integrated services digital network" in page
+ITIL, Information Technology Infrastructure Library;"ITIL" in cswordlist or "information technology infrastructure library" in page
+ITSEC, Information Technology Security;"ITSEC" in cswordlist or "information technology security" in page
+Java
+Jefferson Disk
+Job Rotation
+JSON, JavaScript Object Notation;"JavaScript Object Notation" in page
+KDC, Key Distribution Center;"KDC" in cswordlist or "key distribution center" in page
+Kerberos
+Kernal
+Key Clustering
+Key Clustering Attack
+Key Lock
+Keyboard Dynamics
+Keyboard Unit
+Knowledge Base
+Known Key
+Known Key Attack
+Known Plaintext
+Known Plaintext Attack
+L2F, Layer 2 Forwarding;"L2F" in cspage or "Layer 2 Forwarding" in page
+L2TP, Layer 2 Tunneling Protocol;"L2TP" in cspage or "Layer 2 Tunneling Protocol" in page
+Labeling
+Labeling/Marking
+LAN, Local Area Network;"LAN" in cswordlist or "local area network" in page
+Lattice-Based Access Control
+Law Information Security Aspects
+Layered Design
+Layering
+LCP, Link Control Protocol;"LCP" in cswordlist or "link control protocol" in page
+LDAP, Lightweight Directory Access Protocol;"LDAP" in cswordlist or "lightweight directory access protocol" in page
+LEAP, Lightweight Extensible Authentication Protocol;"LEAP" in cswordlist or "lightweight extensible authentication protocol" in page
+Least Privilege
+Legacy Applications
+Legal Issues
+Legal Liability
+Legal Systems
+Licenses
+Licensing
+Lights
+Limited Broadcast Addresses
+Linear Cryptanalysis
+Link State
+Link State Routing
+Live Forensics
+Location-Based
+Lock Bumping
+Lock Picking
+Logic Bomb
+Lumen
+Lux
+MAC, Mandatory Access Control;"mandatory access control" in page
+MAC, Media Access Control;"media access control" in page
+MAC, Message Authentication Code;"message authentication code" in page
+Machine Code
+MAD, Maximum Allowable Downtime;"MAD" in cswordlist or "maximum allowable downtime" in page
+Magnetic Stripe Card
+Maintenance Hook
+MAN, Metropolitan Area Network;"MAN" in cswordlist or "metropolitan area network" in page
+Managed Mode
+Management In Continuity Planning
+Management Support
+Mandatory Leave
+Mantrap
+Marking
+Master Key
+Master Mode
+Maximum Tolerable Downtime
+MD5, Message Digest 5;"MD5" in cspage or "Message Digest 5" in page
+Media Cleaning
+Media Sanitization/Data Destruction
+Media Storage
+Meet-In-The Middle Attack
+Meet-In-The-Middle
+Memory Controller Hub
+Memory Protection
+Mesh
+Message Digest 5 Algorithm
+MIC, Message Integrity Check;"MIC" in cswordlist or "message integrity check" in page
+Microkernel
+Microsoft Active Directory Domains
+Microwave Motion Detector
+Middleware
+MIME, Multipurpose Internet Mail Extension;"MIME" in cswordlist or "multipurpose internet mail extension" in page
+Minutiae
+Mirroring
+Mistakes
+Mitigation
+MITM, Man In The Middle Attack;"MITM" in cswordlist or "man in the middle attack" in page
+Mobile Device Attacks
+Mobile Site
+Modular Math
+Monitor Mode
+Monoalphabetic
+Monoalphabetic Cipher
+Monolithic Kernel
+Montreal Protocol
+MOR, Minimum Operating Requirements;"MOR" in cswordlist or "minimum operating requirements" in page
+Motherboard
+Motion Detector
+MPLS, Multiprotocol Label Switching;"MPLS" in cswordlist or "multiprotocol label switching" in page
+MTBF, Mean Time Between Failures;"MTBF" in cswordlist or "mean time between failures" in page
+MTD, Maximum Tolerable Downtime;"MTD" in cswordlist or "maximum tolerable downtime" in page
+MTO, Maximum Tolerable Outage;"MTO" in cswordlist or "maximum tolerable outage" in page
+MTTR, Mean Time To Repair;"MTTR" in cswordlist or "mean time to repair" in page
+MTU, Maximum Transmission Unit;"MTU" in cswordlist or "maximum transmission unit" in page
+Multicast Traffic
+Multilevel
+Multipartite Virus
+Multiprocessing
+Multitasking
+Mutation
+NAT, Network Address Translation;"NAT" in cswordlist or "network address translation" in page
+Natural
+Natural Disasters
+NDA, Non-Disclosure Agreement;"NDA" in cswordlist or "Non-Disclosure Agreement" in page
+Need To Know
+Network Access
+Network Access Layer
+Network Addressing
+Network Attacks
+Network Cabling
+Network Forensics
+Network Hub
+Network Layer
+Network Model
+Network-Based System
+Next Generation Firewall
+NGFW, Next Generation Firewall;"next generation firewall" in page
+NIC, Network Interface Card;"NIC" in cswordlist or "network interface card" in page
+NIDS, Network-Based Intrusion Detection System;"NIDS" in cswordlist or "Network-Based Intrusion Detection System" in page
+NIPS, Network-Based Intrusion Prevention System;"NIPS" in cswordlist or "Network-Based Intrusion Prevention System" in page
+Non-Discretionary
+Non-Repudiation
+Nondisclosure Agreement
+Nondiscretionary Access Control
+Noninterference
+Noninterference Model
+Nonrepudiation
+Normalization
+Northbridge
+Northbridge Bus
+NRM, Normal Response Mode;"NRM" in cswordlist or "Normal Response Mode " in page
+NTFS, New Technology File System;"NTFS" in cswordlist or "new technology file system" in page
+Object Encapsulation
+Object Request Brokers
+Object Reuse
+Object-Oriented
+Object-Oriented Database
+Object-Oriented Language
+OCTAVE, Operationally Critical Threat, Asset, and Vulnerability Evaluation;"OCTAVE" in cswordlist or "Operationally Critical Threat, Asset, and Vulnerability Evaluation" in page
+OECD , Organization For Economic Cooperation and Development;"OECD" in cswordlist or "Organization For Economic Cooperation and Development" in page
+OEP, Occupant Emergency Planning;"OEP" in cswordlist or "occupant emergency planning" in page
+OFB, Output Feedback;"OFB" in cswordlist or "output feedback" in page
+OFDM, Orthogonal Frequency-Division Modulation;"OFDM" in cswordlist or "Orthogonal Frequency-Division Modulation" in page
+Offshoring
+Offsite Backup Storage
+OLE, Object Linking and Embedding;"OLE" in cswordlist or "Object Linking and Embedding" in page
+One-Time
+One-Time Pad
+One-Time Password
+OOA, Object-Oriented Analysis;"OOA" in cswordlist or "Object-Oriented Analysis" in page
+OOAD, Object-Oriented Analysis and Design;"OOAD" in cswordlist or "Object-Oriented Analysis and Design" in page
+OOD, Object-Oriented Design;"OOD" in cswordlist or "Object-Oriented Design" in page
+OOP, Object-Oriented Programming;"OOP" in cswordlist or "Object-Oriented Programming" in page
+Open Source
+Open Source Software
+Open System
+Openness Principle
+Operation Modes
+Operational Steps
+Operations Security
+Orange Book
+ORB, Object Request Broker;"object request broker" in page
+Orthogonal Frequency-Division Multiplexing
+OSI, Open System Interconnection;"open system interconnection" in page
+OSPF, Open Shortest Path First;"OSPF" in cswordlist or "open shortest path first" in page
+OUI, Organizationally Unique Identifier;"OUI" in cswordlist or "organizationally unique identifier" in page
+Outsider Attack
+Outsiders
+Outsourcing
+Overt Channel
+Overwriting
+OWASP, Open Web Application Security Project;"OWASP" in cswordlist or "open web application security project" in page
+PaaS, Platform As A Service;"PaaS" in cswordlist or "platform as a service" in page
+Packer
+Packet Filter
+Packet-Switched Network
+Paging
+Pairwise Testing
+PAN, Personal Area Network;"PAN" in cswordlist or "personal area network" in page
+Panic Bar
+PAP, Password Authentication Protocol;"PAP" in cswordlist or "password authentication protocol" in page
+Paper Shredders
+Parallel Processing
+Paravirtualization
+Parent Class
+Parity
+Partial Knowledge Test
+Passive Infrared Sensor
+Passphrase
+Password Control
+Password Cracking
+Password Guessing
+Password Hash
+Password Management Security
+Patch Management
+Patent
+Pattern Matching
+PBNAC, Port-Based Network Access Control;"PBNAC" in cswordlist or "Port-Based Network Access Control" in page
+PCI, Payment Card Industry;"PCI" in cswordlist or "payment card industry" in page
+PCI-DSS (Payment Card Industry Data Security Standard), ;"PCI" in cspage and "DSS"in cspage
+PDU, Protocol Data Unit;"PDU" in cswordlist or "protocol data unit" in page
+PEAP, Protected EAP;"PEAP" in cswordlist or "Protected EAP" in page
+Peer To Peer
+Penetration Testing
+Penetration Tests
+Perimeter Alarms
+Perimeter Defenses
+Permissions
+Permutation
+Personnel Availability
+Personnel Control
+Personnel Security
+Personnel Shortages
+PGP, Pretty Good Privacy;"PGP" in cswordlist or "pretty good privacy" in page
+Phishers
+Phishing
+Physical Layer
+Physical Network Topologies
+Physical Security
+Picking
+PII, Personally Identifiable Information;"PII" in cswordlist or "personally identifiable information" in page
+PIN, Personal Identification Number;"PIN" in cswordlist or "personal identification number" in page
+Pin Tumbler Lock
+Ping Of Death
+Pipelining
+PKI, Public Key Infrastructure;"PKI" in cswordlist or "public key infrastructure" in page
+Plaintext
+Plan Maintenance
+Plan Testing
+PLD, Programmable Logic Device;"PLD" in cswordlist or "programmable logic device" in page
+PM, Project Management;"PM" in cswordlist or "project management" in page
+Poison Reverse
+Polyalphabetic
+Polyalphabetic Cipher
+Polyinstantiation
+Polymorphic Virus
+Polymorphism
+POP, Post Office Protocol;"POP" in cswordlist or "post office protocol" in page
+Port Controls
+Port Scanning
+Portable Fire Extinguishers
+Positive Pressure
+POST, Power-On Self-Test;"POST" in cswordlist or "Power-On Self-Test" in page
+POTS, Plain Old Telephone Service;"POTS" in cswordlist or "plain old telephone service" in page
+PPP, Point-To-Point Protocol;"PPP" in cswordlist or "Point-To-Point Protocol" in page
+PPTP, Point-To-Point Tunneling Protocol;"PPTP" in cswordlist or "Point-To-Point Tunneling Protocol" in page
+Practice Tests
+Preaction Sprinkler System
+Preparation
+Presentation
+Presentation Layer
+Preventive
+Preventive Controls
+PRI, Primary Rate Interface;"PRI" in cswordlist or "primary rate interface" in page
+Primary Key
+Primary Key Unique
+Principal
+Principle Of Least Privilege
+Printed Bitting Key
+Privacy Act Of 1974
+Privacy Guidelines
+Private Key
+Privilege Escalation
+Privilege Monitoring
+Problem Domain
+Procedural Issues
+Procedural Language
+Process Isolation
+Procurement
+Product Owner
+Professional Experience
+Program Policy
+Programming Concepts
+Project Scope
+PROM, Programmable Read Only Memory;"PROM" in cswordlist or "programmable read only memory" in page
+Promiscuous Access
+Protect Society
+Protocol Behavior
+Protocol Governance
+Prototyping
+Proxy Firewall
+Prudent Man Rule
+Pseudo Guard
+PT, Penetration Test;"penetration test" in page
+Punitive Damages
+Purple
+Purpose Specification Principle
+Pushbutton Locks
+PVC, Permanent Virtual Circuit;"PVC" in cswordlist or "permanent virtual circuit" in page
+QoS, Quality Of Service;"qos" in wordlist or "quality of service" in page
+Qualitative Risk Analysis
+Quantitative Risk Analysis
+Query Language
+RA, Risk Analysis;"RA" in cswordlist or "risk analysis" in page
+RAD, Rapid Application Development;"RAD" in cswordlist or "rapid application development" in page
+RADIUS, Remote Authentication Dial In User Service;"RADIUS" in cswordlist or "remote authentication dial in user service" in page
+RAID, Redundant Array Of Inexpensive Disks;"RAID" in cswordlist or "redundant array of inexpensive disks" in page
+Rainbow Table
+RAM, Random Access Memory;"RAM" in cswordlist or "random access memory" in page
+Rapid Application Development
+RARP, Reverse Address Resolution Protocol;"RARP" in cswordlist or "reverse address resolution protocol" in page
+RAT, Remote Access Trojan;"RAT" in cswordlist or "remote access trojan" in page
+RBAC, Role-Based Access Control;"RBAC" in cswordlist or "Role-Based Access Control" in page
+RC4, Rivest Cipher 4;"RC4" in cspage or "Rivest Cipher 4" in page
+RC5, Rivest Cipher 5;"RC5" in cspage or "Rivest Cipher 5" in page
+RC6, Rivest Cipher 6;"RC6" in cspage or "Rivest Cipher 6" in page
+Read Down
+Readiness Checklist
+Reading Down
+Real Evidence
+Real Neural Networks
+Real Versus Secondary
+Realm
+Reasonable Searches
+Reciprocal Agreement
+Reconstitution
+Records Retention
+Recovery Controls
+Recovery Technologies Cost Vs. Availability
+Redundant Hardware
+Redundant Site
+Redundant System
+Reference Monitor
+Referential Integrity
+Registers
+Registry Viewing
+Regression Testing
+Regulatory Law
+Relational Database
+#Relationship
+Religious Law
+Remote Access
+Remote Authentication Dial-In User Service
+Remote Desktop Console Access
+Remote Journaling
+Remote Meeting Technology
+Removable Media Controls
+Repeater
+Replacements
+Replication
+Reserved Ports
+Responsible Disclosure
+Restricted Area
+Retina Scan
+RFI, Remote File Inclusion;"RFI" in cswordlist or "remote file inclusion" in page
+ RFID, Radio Frequency Identification;"RFID" in cswordlist or "radio frequency identification" in page
+Right To Penetration Test;"right to pen test" in page or "right to penetration test" in page
+Right To Audit
+Rijndael Cipher
+Ring Model
+Ring Topology
+RIP, Routing Information Protocol;"RIP" in cswordlist or "routing information protocol" in page
+RISC, Reduced Instruction Set Computer;"RISC" in cswordlist or "reduced instruction set computer" in page
+Risk Analysis Matrix
+Risk Choices
+Risk Equation
+Risk Management
+Risk Management Process
+Risk Transfer
+ROI, Return On Investment;"ROI" in cswordlist or "return on investment" in page
+Rollback
+ROM, Read Only Memory;"ROM" in cswordlist or "read only memory" in page
+Rootkit
+Rot-13
+Rotation Cipher
+Rotation Of Duties
+Rotation Substitution
+Rotor Machines
+Routing Protocols
+RPO, Recovery Point Objective;"RPO" in cswordlist or "recovery point objective" in page
+RTO, Recovery Time Objective;"RTO" in cswordlist or "recovery time objective" in page
+RTP, Real-Time Transport Protocol;"RTP" in cswordlist or "Real-Time Transport Protocol" in page
+RTU, Remote Terminal Unit;"RTU" in cswordlist or "remote terminal unit" in page
+Rule-Based Access Control
+Running-Key Cipher
+S/MIME, Secure/Multipurpose Internet Mail Exchange;"SMIME" in cswordlist or "Secure/Multipurpose Internet Mail Exchange" in page
+SA, Security Association;"SA" in cswordlist or "security association" in page
+SaaS, Software As A Service;"SaaS" in cswordlist or "software as a service" in page
+Salt
+SAML, Security Assertion Markup Language;"SAML" in cswordlist or "security assertion markup language" in page
+SAN, Storage Area Network;"SAN" in cswordlist or "storage area network" in page
+Sanction
+Sashimi Model
+Save Point
+SCADA, Supervisory Control and Data Acquisition;"SCADA" in cswordlist or "Supervisory Control and Data Acquisition" in page
+Schema
+Screened Host Architecture
+Screened Subnet Architecture
+Screenings
+Script Kiddies
+Scrum
+Scrum Master
+SCSI, Small Computer System Interface;"small computer system interface" in page
+Scytale
+SDLC, Synchronous Data Link Control;"synchronous data link control" in page
+SDLC, Systems Development Life Cycle;"systems development life cycle" in page
+SDN, Software-Defined Networking;"Software-Defined Networking" in page
+SDSL, Symmetric Digital Subscriber Line;"SDSL" in cswordlist or "symmetric digital subscriber line" in page
+Search Warrant
+Secondary Evidence
+Secure Communications
+Secure European System For Applications In A Multivendor
+Secure Hash Algorithm
+Security Assessment
+Security Association
+Security Audit
+Security Audit Log
+Security Awareness
+Security Challenges
+Security Domain
+Security Guard
+Security Label
+Security Models
+Security Policy
+Security Training
+Security-Oriented Baseline Configuration
+Selection
+Self Tests
+Semantic Integrity
+Senior Management
+Sensitive Media
+Sensitivity Label
+Separation Of Duties
+Server-Side Attack
+Service Provider Contractual Security
+Servicemark
+SESAME, Secure European System For Applications In A Multivendor Environment;"SESAME" in cswordlist or "Secure European System For Applications In A Multivendor Environment" in page
+Session Hijacking
+Session Layer
+SHA, Secure Hash Algorithm;"SHA" in cswordlist or "secure hash algorithm" in page
+SHA-1, Secure Hash Algorithm;"SHA1" in cspage or "SHA-1" in cspage
+SHA-2, Secure Hash Algorithm;"SHA2" in cspage or "SHA-2" in cspage
+SHA-3, Secure Hash Algorithm;"SHA3" in cspage or "SHA-3" in cspage
+Shadow Database
+Shadowing
+Shared Demarc
+Shared Tenancy
+Shareware
+Shoulder Surfing
+Shredding
+Side-Channel
+Side-Channel Attack
+Simple Integrity Axiom
+Simple Security Property
+Simplex
+Simplex Communication
+Simulation Test
+Simulation Test/Walkthrough Drill
+Single Loss Expectancy
+Single Sign-On
+SIP, Session Initiation Protocol;"SIP" in cswordlist or "session initiation protocol" in page
+Site Marking
+Site Selection
+Slack Space
+SLAs, Service Level Agreements;"SLA" in cswordlist or "service level agreements" in page
+SLE, Single Loss Expectancy;"SLE" in cswordlist or "single loss expectancy" in page
+SLIP, Serial Line Internet Protocol;"SLIP" in cswordlist or "serial line internet protocol" in page
+Smart Card
+Smartcard
+SMDS, Switched Multimegabit Data Service;"SMDS" in cswordlist or "switched multimegabit data service" in page
+Smoke Detector
+SMTP, Simple Mail Transfer Protocol;"SMTP" in cswordlist or "simple mail transfer protocol" in page
+Smurf
+Smurf Attack
+Sniffing
+SNMP, Simple Network Management Protocol;"simple network management protocol" in page
+Social Engineering
+Socket
+Socket Pair
+Soda Acid
+Software Architecture
+Software Escrow
+Software Licensing
+Software Piracy
+Software Testing Methods
+Software Vulnerabilities
+SONET, Synchronous Optical Networking;"SONET" in cswordlist or "synchronous optical networking" in page
+Source Code
+Southbridge
+Southbridge Bus
+SOX, Sarbanes-Oxley Act;"SOX" in cswordlist or "Sarbanes-Oxley Act" in page
+Spartan Scytale
+Spear Phishing
+SPI, Security Parameter Index;"SPI" in cswordlist or "security parameter index" in page
+Spiral Model
+Split Horizon
+Spoofing
+Spring-Bolt Lock
+Sprinkler Systems
+SQL, Structured Query Language;"SQL" in cswordlist or "structured query language" in page
+SQLi, SQL Injection;"SQL Injection" in page
+SRAM, Static Random Access Memory;"SRAM" in cswordlist or "static random access memory" in page
+SRTP, Secure Real-Time Transport Protocol;"SRTP" in cswordlist or "Secure Real-Time Transport Protocol" in page
+SSD, Solid State Drive;"solid state drive" in page
+SSH, Secure Shell;"SSH" in cswordlist or "secure shell" in page
+SSID, Service Set Identifier;"SSID" in cswordlist or "service set identifier" in page
+SSL, Secure Sockets Layer;"SSL" in cswordlist or "secure sockets layer" in page
+SSO, Single Sign-On;"SSO" in cswordlist or "Single Sign-On" in page
+Star Toplogy
+Starting Emergency Power
+State Machine Model
+Stateful Firewall
+Stateful Inspection
+Stateful Packet Inspection
+Stateless Autoconfiguration
+Stateless Packet Filter
+Static Analysis
+Static Electricity
+Static Ip
+Static Password
+Static Route
+Static Testing
+Statutory Damages
+Stealth Virus
+Steganography
+Storage Channel
+STP, Shielded Twisted Pair;"STP" in cswordlist or "shielded twisted pair" in page
+Stream Cipher
+Stream Mode Cipher
+Strike
+Strike Plate
+Striping
+Strong Authentication
+Strong Authentication Password
+Structured Query Language
+Structured Walkthrough
+Structured Walkthrough/Tabletop
+Subscription Services
+Supply Chain Management
+Suppression Agents
+Surge Protector
+SVC, Switched Virtual Circuit;"SVC" in cswordlist or "switched virtual circuit" in page
+Swapping
+Synchronous Dynamic Token
+System Call
+System Defenses
+System High
+T1
+T3
+TACACS, Terminal Access Controller Access Control System;"TACACS" in cswordlist or "terminal access controller access control system" in page
+Tailgating
+Tailgating/Piggybacking
+Take-Grant Protection Model
+Tap
+Tap, Test Access Port;"tap" in wordlist or "test access port" in page
+Tape Rotation Methods
+Targeted Attacks
+Task-Based Access Control
+TCO, Total Cost Of Ownership;"TCO" in cswordlist or "total cost of ownership" in page
+TCP, Transmission Control Protocol;"TCP" in cswordlist or "transmission control protocol" in page
+TCP/IP, Transmission Control Protocol/Internet Protocol;"TCP/IP" in cspage or "Transmission Control Protocol/Internet Protocol" in page
+TCSEC, Trusted Computer System Evaluation Criteria;"TCSEC" in cswordlist or "trusted computer system evaluation criteria" in page
+TDEA, Triple Data Encryption Algorithm;"TDEA" in cswordlist or "triple data encryption algorithm" in page
+TDES, Triple Data Encryption Standard;"TDES" in cswordlist or "3DES" in cspage or "triple data encryption standard" in page
+Team Activation
+Teardrop Attack
+Technical Controls
+Telecommunication Management
+Telecommunications
+Telnet
+Temperature
+TFTP, Trivial File Transfer Protocol;"TFTP" in cswordlist or "trivial file transfer protocol" in page
+TGS, Ticket Granting Service;"TGS" in cswordlist or "ticket granting service" in page
+TGT, Ticket Granting Ticket;"TGT" in cswordlist or "ticket granting ticket" in page
+Thicknet
+Thin Clients
+Thinnet
+Threads
+Threat Agent
+Threat Vector
+Three-Pass Method
+Throughput
+Ticket
+Time Multiplexing
+Timing Channel
+Titan Rain
+TLS, Transport Layer Security;"TLS" in cswordlist or "transport layer security" in page
+TNI, Trusted Network Interpretation;"TNI" in cswordlist or "trusted network interpretation" in page
+TOC/TOU (Time Of Check/Time Of Use);"TOC/TOU" in cspage
+Token Ring
+Top-Down Vs. Bottom-Up Programming
+Topography
+Traceability Matrix
+Trade Secret
+Trade Secrets
+Trademark
+Transborder Data Flow
+Transparent Virtualization
+Transport Layer
+Transport Mode
+Travel Safety
+Tree
+Trojan Horse
+Truth Table
+Tunnel Mode
+Tuple
+Turnstile
+Twisted Pair
+Twisted-Pair
+Two-Pass Method
+Twofish
+Type 1 Authentication
+Type 2 Authentication
+Type 3 Authentication
+Typosquatting
+U.S. Computer Fraud And Abuse Act
+UDP, User Datagram Protocol;"UDP" in cswordlist or "user datagram protocol" in page
+UI, User Interface;"user interface" in page
+Ultrasonic Motion Detector
+Unallocated Space
+Unicast Traffic
+Uninterruptible Power Supplies
+Unit Testing
+UPS, Uninterruptible Power Supply;"UPS" in cswordlist or "uninterruptible power supply" in page
+USB, Universal Serial Bus;"USB" in cswordlist or "universal serial bus" in page
+Use Limitation Principle
+Utilities
+Utility Management
+Utility Reliability
+UTP, Unshielded Twisted Pair;"UTP" in cswordlist or "unshielded twisted pair" in page
+VA, Vulnerability Assessment;"vulnerability assessment" in page
+VDI, Virtual Desktop Infrastructure;"virtual desktop infrastructure" in page
+VDSL, Very High Rate Digital Subscriber Line;"VDSL" in cswordlist or "very high rate digital subscriber line" in page
+Velcro
+Vendor Governance
+Vernam Cipher
+Version Control
+Vigenere Cipher
+Virtual Memory
+Virtualization
+VLAN, Virtual LAN;"Virtual LAN" in page
+VM, Virtual Machine;"virtual machine" in page
+Voiceprint
+VoIP, Voice over IP;"Voice over IP" in page
+VPN, Virtual Private Networks;"VPN" in cswordlist or "virtual private networks" in page
+Vs. Symmetric
+Vulnerability Assessment
+Vulnerability Management
+Vulnerability Testing
+Warm Site
+Wassenaar Arrangement
+Watchdog Timers
+Waterfall Model
+Well Formed Transactions
+Wet Chemical
+White Box
+White Hat
+Worms
+Write Up
+XML, eXtensible Markup Language;"eXtensible Markup Language" in page
+XOR, Exclusive Or;"exclusive or" in page
+XSS, Cross Site Scripting;"cross site scripting" in page
